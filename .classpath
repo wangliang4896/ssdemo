@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java/src"/>
+	<classpathentry kind="lib" path="java/lib/common-3.4.6.1-tsvo.jar"/>
+	<classpathentry kind="lib" path="java/lib/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="java/lib/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="java/lib/logback-cfca-jdk1.6-3.2.0.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/SADK-3.4.1.2.jar"/>
+	<classpathentry kind="lib" path="java/lib/SealSADK-3.1.3.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/timestampAPI-4.0.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
